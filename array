@@ -1,0 +1,13 @@
+
+  
+public class main {
+public static void main(string args[]){
+char[] kid ={
+'s',
+'h',
+'r',
+'u
+'t'
+'i'
+};
+string kids = new
