@@ -1,0 +1,12 @@
+
+8 lines (8 sloc)  205 Bytes
+  
+public class main {
+public static void main (string[] args){
+string s ="iprah";
+system.out.println(s.contains("pr"));
+system.out.println(s.contains("ah"));
+system.out.println(s.contains("lad"));
+}
+}
+© 2021 GitHub, Inc.
