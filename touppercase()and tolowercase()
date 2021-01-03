@@ -1,0 +1,12 @@
+
+  
+7 lines (7 sloc)  198 Bytes
+  
+public class main{
+public static void main(string [] args){
+string s1 = "THisISaNAmAiZiNGextwHIchISWRIttenCAseprahlad";
+system.out.println(s.ToUppercase());
+system.out.println(s.ToLowercase());
+}
+}
+© 2021 GitHub, Inc.
